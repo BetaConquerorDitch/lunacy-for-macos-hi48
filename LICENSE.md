@@ -1,4 +1,4 @@
-
+Enhance Lunacy for macOS with Lunacy for macOS exclusive Filter - cloud sync and version history, the #1 filter. Includes cloud sync and version history for a smoother and more
 
 
 
